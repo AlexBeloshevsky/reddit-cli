@@ -21,5 +21,3 @@ if (argv.print) {
 } else {
   open(link);
 }
-
-console.log("a useless log message");
